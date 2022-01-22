@@ -5,3 +5,4 @@ El programa consiste en un arreglo de objetos de figuras geometricas (Triangulo,
 
 NOTA
 - El parametro del constructor 'Figuras', 'id' no se utiliza. En futuras versiones se quitará.
+- Se incluye los .java, .class, archivos de texto (para realizar las pruebas), .jar y .zip utilizados y entregados
