@@ -1,8 +1,17 @@
 # Practica-3-POO
-Práctica #3 de POO
 
-El programa consiste en un arreglo de objetos de figuras geometricas (Triangulo, Cuadrado, Rectangulo, Rombo, Romboide, Trapecio, Poligono Regular y Circulo). En este programa solo se hace la inserción de objetos de tipo 'Figura' a un ArrayList, del cual  se obtiene la cantidad de trinagulos, cuadrados, rectangulos, rombos, romboides, trapecios, poligonos regulaes y circulos existen en el ArrayList.
+TEMA DE LA PRÁCTICA
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+Utilerias y clases de uso general
 
-NOTA
-- El parametro del constructor 'Figuras', 'id' no se utiliza. En futuras versiones se quitará.
-- Se incluye los .java, .class, archivos de texto (para realizar las pruebas), .jar y .zip utilizados y entregados
+DESCRIPCIÓN
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+El programa consiste en un arreglo de objetos de figuras geometricas (Triangulo, Cuadrado, Rectangulo, Rombo, Romboide, Trapecio, Poligono Regular y Circulo), del cual se va a obtener la cantidad de veces que cada figura se repite
+
+NOTAS
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+El parametro del constructor 'Figuras', 'id' no se utiliza. En futuras versiones se quitará.
+
+ARCHIVOS INCLUIDOS
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+Se incluyen los archivos de texto, se incluyen todos los .java, .jar y .zip utilizados y entregados.
