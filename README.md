@@ -14,4 +14,4 @@ El parametro del constructor 'Figuras', 'id' no se utiliza. En futuras versiones
 
 ARCHIVOS INCLUIDOS
 --------------------------------------------------------------------------------------------------------------------------------------------------------
-Se incluyen los archivos de texto, se incluyen todos los .java, .jar y .zip utilizados y entregados.
+Se incluyen los .txt (para las pruebas), .java, .jar y .zip utilizados y entregados.
